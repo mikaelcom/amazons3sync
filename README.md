@@ -21,9 +21,9 @@ The web interface is accessible using a login and a password. On installation, o
 
 The admin user can create new users with 2 authorization levels represented by 2 groups of user :
 
-	1. read/write/delete: the users that belong to this group can do anything they want
+    1. read/write/delete: the users that belong to this group can do anything they want
 
-	2. read: the users that belong to this group can only read the informations without having the ability to create or delete anything
+    2. read: the users that belong to this group can only read the informations without having the ability to create or delete anything
 
 The local directories must be selected under one main directory defined once on the installation.
 
